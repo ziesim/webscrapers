@@ -4,5 +4,6 @@ bs4
 lxml
 flake8
 pyqt5
+python-dotenv
 dotenv
 cryptography
