@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (WebScrapers)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (WebScrapers)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (webscrapers)" project-jdk-type="Python SDK" />
 </project>
